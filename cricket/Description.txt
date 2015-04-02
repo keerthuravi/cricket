@@ -1,0 +1,2 @@
+CRICKET FEEDBACK SITE
+	This project is about providing cricket feedback .Here one can add,delete,update,view and also can provide rating for the matches and for the comments.This project is done in C++ using some DATA STRUCTURE concepts.
